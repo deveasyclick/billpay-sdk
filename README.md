@@ -11,8 +11,7 @@
 
 ## Overview
 
-**billpay** gives you a single, consistent interface to process utility bill payments in Nigeria across multiple providers. Point it at InterSwitch, VTPass, or both — and it will handle the rest, including automatic failover if your primary provider goes down.
-
+**billpay** gives you a single, consistent interface to process utility bill payments in Nigeria across multiple providers. Point it at InterSwitch, VTPass, or both — and it will handle the rest.
 - **Pay airtime, data, TV subscriptions, electricity, and gaming bills** through one unified API
 - **Support for multiple providers** — InterSwitch and VTPass behind a single interface
 - **No database required** — fully stateless; bring your own persistence
@@ -58,7 +57,7 @@ yarn add billpay
 pnpm add billpay
 ```
 
-**Requirements:** Node.js ≥ 16, npm ≥ 8
+**Requirements:** Node.js ≥ 20, npm ≥ 10
 
 ---
 
