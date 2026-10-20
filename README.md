@@ -1,4 +1,4 @@
-# billpay
+# BillPay SDK (`billpay` on npm)
 
 > Framework-agnostic Node.js SDK for bill payment processing in Nigeria — with multi-provider support, unified abstractions, and full TypeScript support.
 
@@ -8,6 +8,11 @@
 [![Node.js](https://img.shields.io/badge/Node.js->=16-green.svg)](https://nodejs.org/)
 
 ---
+
+This is the reusable SDK. The full-stack [BillPay application](https://github.com/deveasyclick/billpay)
+is maintained separately.
+
+[Engineering notes](docs/engineering-notes.md) · [npm package](https://www.npmjs.com/package/billpay)
 
 ## Overview
 
