@@ -16,13 +16,13 @@
     "failover",
     "bill"
   ],
-  "homepage": "https://github.com/deveasyclick/billpay#readme",
+  "homepage": "https://github.com/deveasyclick/billpay-sdk#readme",
   "bugs": {
-    "url": "https://github.com/deveasyclick/billpay/issues"
+    "url": "https://github.com/deveasyclick/billpay-sdk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deveasyclick/billpay.git"
+    "url": "git+https://github.com/deveasyclick/billpay-sdk.git"
   },
   "license": "MIT",
   "author": "deveasyclick",
